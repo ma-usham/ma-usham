@@ -21,4 +21,4 @@ Passionate about building interactive gameplay experiences, scalable game system
 
 ## 📫 Connect
 
-LinkedIn: [Your Link]
+LinkedIn: https://www.linkedin.com/in/mausham-neupane-1327102b4/
