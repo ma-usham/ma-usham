@@ -17,10 +17,10 @@ Passionate about creating interactive gameplay experiences, scalable systems, an
 
 ## 🎮 Major Projects
 
-- 🎃 **Halloween Chase** — My first game built from scratch using C# and SFML without a game engine, exploring core game programming concepts.
-- ⚪ **WhiteKube** — A 2d puzzle platformer game focused on precision-based gameplay, clean mechanics, and player interaction.
-- 🌌 **HelixFall** — A gameplay-driven project focused on physics, mechanics, and creating an engaging player experience with leaderboard support.
-- 🎲 **Ludo Classic Nepal** — A digital Ludo game bringing the traditional board game experience to mobile with smooth gameplay and user-friendly design.
+- 🎃 **Halloween Chase** — A C# and SFML-based game built from scratch without using a game engine.
+- ⚪ **WhiteKube** — A fast-paced 2d arcade game focused on precision, timing, and engaging gameplay mechanics.
+- 🌌 **HelixFall** — A physics-driven gameplay experience focused on movement mechanics and player interaction.
+- 🎲 **Ludo Classic Nepal** — A digital Ludo game featuring classic gameplay with a smooth mobile experience.
 
 ## 📫 Connect
 
