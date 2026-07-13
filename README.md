@@ -2,7 +2,7 @@
 
 🎮 Unity Game Developer | C# Programmer
 
-Passionate about building interactive gameplay experiences, scalable game systems, and exploring game development technologies.
+Passionate about creating interactive gameplay experiences, scalable systems, and optimized game solutions.
 
 ## 🛠️ Skills
 
@@ -10,15 +10,18 @@ Passionate about building interactive gameplay experiences, scalable game system
 - C#
 - Gameplay Programming
 - 2D & 3D Game Development
-- Game Physics & AI Systems
-- Git & Blender
+- Game Architecture & Design Patterns
+- Game Optimization & Performance Tuning
+- AI Systems & Game Physics
+- Git & Version Control
 
-## 🎮 Projects
+## 🎮 Major Projects
 
-- 🚌 Nepali Bus Game — Bus driving simulation inspired by Nepal's roads and transportation.
-- 🎃 Halloween Chase — My first game built using C# and SFML without a game engine.
-- 🧊 Dodging Cube — Unity-based gameplay project.
+- 🎃 **Halloween Chase** — My first game built from scratch using C# and SFML without a game engine, exploring core game programming concepts.
+- ⚪ **WhiteKube** — A 2d puzzle platformer game focused on precision-based gameplay, clean mechanics, and player interaction.
+- 🌌 **HelixFall** — A gameplay-driven project focused on physics, mechanics, and creating an engaging player experience with leaderboard support.
+- 🎲 **Ludo Classic Nepal** — A digital Ludo game bringing the traditional board game experience to mobile with smooth gameplay and user-friendly design.
 
 ## 📫 Connect
 
-LinkedIn: https://www.linkedin.com/in/mausham-neupane-1327102b4/
+LinkedIn: www.linkedin.com/in/mausham-neupane-1327102b4/
